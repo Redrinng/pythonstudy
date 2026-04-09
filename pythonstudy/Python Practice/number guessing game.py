@@ -91,4 +91,4 @@ def number_guessing_game():
 
 number_guessing_game()
 
-# kapd be a faszomxddd
+# kapd be a faszomxdd
