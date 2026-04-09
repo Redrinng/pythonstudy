@@ -1,7 +1,7 @@
-print("1 - Add")
-print("2 - Subtract")
-print("3 - Multiply")
-print("4 - Divide")
+print("1 - Osszeadas")
+print("2 - Kivonas")
+print("3 - Szorzas")
+print("4 - Osztas")
 option = int(input("Choose an operation:"))
 result = 0
 
